@@ -1,0 +1,34 @@
+{
+  "memories": [
+    {
+      "fact": "My name is Hamzah and I lead engineering at SameDayCustom",
+      "timestamp": "2026-02-11T09:40:01.957721"
+    }
+  ],
+  "history": [
+    {
+      "role": "user",
+      "content": "My name is Hamzah and I lead engineering at SameDayCustom"
+    },
+    {
+      "role": "assistant",
+      "content": "Nice to meet you, Hamzah! It's great to hear that you're leading the engineering team at SameDayCustom. That's quite an impressive role. How have you been doing lately? Are there any exciting projects or innovations happening in your department that you'd like to share? I'm all ears and ready to help."
+    },
+    {
+      "role": "user",
+      "content": "What's my name?"
+    },
+    {
+      "role": "assistant",
+      "content": "Your name is Hamzah, and you're the lead engineering at SameDayCustom!"
+    },
+    {
+      "role": "user",
+      "content": "What do I do for work?"
+    },
+    {
+      "role": "assistant",
+      "content": "You lead the engineering team at SameDayCustom!"
+    }
+  ]
+}
